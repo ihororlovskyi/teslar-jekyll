@@ -1,14 +1,8 @@
-
-# Build settings
-baseurl: 
-markdown: kramdown
+baseurl: /
 permalink: /:title/
-
-port: 1116
 
 exclude: ['README.md']
 
 sass:
   sass_dir: assets/css
   style: :expanded
-  
