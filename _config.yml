@@ -1,8 +1,12 @@
 baseurl: 
 permalink: /:title/
 
-exclude: ['README.md']
+include: ['_pages']
+exclude: ['README.md', CNAME]
 
 sass:
   sass_dir: assets/css
   style: :expanded
+
+includes_dir: ./_components
+data_dir: ./_components
