@@ -8,10 +8,8 @@ Web development of Теsl’ar Studio site
 
 `jekyll serve -w --baseurl ""`
 
-### To Do
+### Used
 
-* need to add gulp first
-
-### Thanks
+Static site generator - [Jekyll](https://jekyllrb.com)
 
 Proudly hosted by [GitHub Pages](https://pages.github.com)
