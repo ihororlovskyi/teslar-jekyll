@@ -1,4 +1,4 @@
-# Теsl’ar
+# Теsl’ar Studio
 
 ### столярна майстерня
 
@@ -6,7 +6,7 @@ Web development of Теsl’ar Studio site
 
 ### Run
 
-`jekyll serve -w --baseurl ""`
+`jekyll serve -w --baseurl ''`
 
 ### Used
 
