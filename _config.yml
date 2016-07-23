@@ -1,4 +1,4 @@
-baseurl: 
+baseurl: /teslar-jekyll
 permalink: /:title/
 
 include: ['_pages']
